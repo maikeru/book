@@ -43,8 +43,9 @@
 - [Error Handling]()
 
 - [Generics](ch10-00-generics.md)
-    - [Traits](ch10-01-traits.md)
-    - [Lifetimes](ch10-02-lifetimes.md)
+    - [Syntax](ch10-01-syntax.md)
+    - [Traits](ch10-02-traits.md)
+    - [Lifetimes](ch10-03-lifetimes.md)
 
 - [Closures]()
 
