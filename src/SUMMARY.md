@@ -52,7 +52,11 @@
 
 - [Patterns](chXX-patterns.md)
 
-- [Testing]()
+- [Testing](chXX-00-testing.md)
+    - [Unit testing](chXX-01-testing.md)
+    - [Integration testing](chXX-02-integration-testing.md)
+    - [Documentation Tests](chXX-03-documentation-tests.md)
+
 
 - [Debugging]()
 
