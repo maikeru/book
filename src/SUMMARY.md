@@ -44,7 +44,7 @@
 
 - [Generics]()
 
-- [I/O]()
+- [A tour of the standard library]()
     - [`Read` & `Write`]()
     - [`std::fs`]()
     - [`std::path`]()
@@ -56,6 +56,12 @@
 
 - [Debugging]()
 
+- [Creating a Library with Cargo](chXX-00-creating-a-library-with-cargo.md)
+    - [Crates.io](chXX-01-crates-io.md)
+    - [Organizing your Public API](chXX-02-public-api.md)
+    - [Documentation](chXX-03-documentation.md)
+    - [Workspaces and Multiple Related Crates](chXX-04-workspaces.md)
+
 ## Thinking in Rust
 
 - [Composition]()
@@ -64,13 +70,6 @@
 
 - [Zero-cost Abstractions]()
     - [Iterators as a Case Study]()
-
-- [Creating a Library]()
-    - [Cargo]()
-    - [Crates.io]()
-    - [Organizing your Public API](chYY-YY-public-api.md)
-    - [Documentation](chYY-YY-documentation.md)
-    - [Workspaces and Multiple Related Crates](chYY-YY-workspaces.md)
 
 - [Smart Pointers]()
     - [`Deref`]()
